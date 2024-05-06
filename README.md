@@ -1,2 +1,2 @@
-# kitapi-chat
-Kullanıcıya kitap önerileri veren gemini ai destekli chat bot 
+## GEMINI AI DESTEKLI KİTAP ÖNERİ BOTU
+## GÖRSEL ARAYÜZ CHAT-GPT TARAFINDAN TASARLANMIŞTIR.
